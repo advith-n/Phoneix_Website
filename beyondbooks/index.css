@@ -1,0 +1,481 @@
+a, a:visited, a:hover, a:active {
+  color: inherit;
+  border: inherit;
+  
+}
+.image-2-icon {
+  position: absolute;
+  top: 2.19rem;
+  left: 1.31rem;
+  border-radius: 41px;
+  width: 33.31rem;
+  height: 49.94rem;
+  object-fit: cover;
+}
+.group-child,
+.image-2-parent {
+  position: absolute;
+  width: 36rem;
+  height: 54.31rem;
+}
+.group-child {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-32xl);
+  border: 5px solid var(--color-dimgray);
+  box-sizing: border-box;
+}
+.image-2-parent {
+  top: 82.19rem;
+  left: 77.75rem;
+}
+.creative-and-visual {
+  position: absolute;
+  top: 82rem;
+  left: 6.75rem;
+  letter-spacing: 0.05em;
+  line-height: 5rem;
+}
+.lorem-ipsum-dolor {
+  margin: 0;
+}
+.span {
+  font-size: var(--font-size-26xl);
+}
+.lorem-ipsum-dolor-container {
+  position: absolute;
+  top: 89.25rem;
+  left: 6.75rem;
+  letter-spacing: 0.03em;
+  line-height: 3.13rem;
+  font-family: var(--font-abhaya-libre);
+  display: inline-block;
+  width: 67.63rem;
+  height: 39.81rem;
+  font-size: var(--font-size-29xl);
+}
+.web-1920-4-child {
+  position: absolute;
+  top: 145.44rem;
+  left: 4.94rem;
+  border-radius: var(--br-32xl);
+  border: 5px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 36rem;
+  height: 47.69rem;
+}
+.dsc-0055a-icon {
+  position: absolute;
+  top: 147.13rem;
+  left: 6.13rem;
+  border-radius: 48px;
+  width: 33.69rem;
+  height: 44rem;
+  object-fit: cover;
+}
+.music {
+  position: absolute;
+  top: 144.63rem;
+  left: 46.06rem;
+  letter-spacing: 0.05em;
+  line-height: 5rem;
+}
+.learn-practiceperform-inspi-container {
+  position: absolute;
+  top: 151.88rem;
+  left: 46.06rem;
+  font-size: var(--font-size-29xl);
+  letter-spacing: 0.03em;
+  line-height: 3.13rem;
+  font-family: var(--font-abhaya-libre);
+  display: inline-block;
+  width: 67.63rem;
+  height: 29rem;
+}
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #f26929;
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 120rem;
+  height: 35.63rem;
+}
+.connect,
+.contact,
+.quick-links {
+  position: absolute;
+  top: 2.75rem;
+  left: 95rem;
+  letter-spacing: 0.05em;
+  line-height: 5rem;
+}
+.contact,
+.quick-links {
+  left: 64rem;
+}
+.quick-links {
+  left: 38.31rem;
+}
+.about-phoenix-admissions-paren {
+  position: absolute;
+  top: 7.69rem;
+  left: 38rem;
+  font-size: var(--font-size-26xl);
+  letter-spacing: 0.02em;
+  line-height: 3.75rem;
+  color: var(--color-white);
+}
+.email-centreheadmyphoenixaca {
+  margin: 0;
+  font-size: 1.25rem;
+}
+.office-91-821-4257452-mobile-container {
+  position: absolute;
+  top: 7.69rem;
+  left: 64rem;
+  letter-spacing: 0.02em;
+  line-height: 2.81rem;
+  color: var(--color-white);
+  display: inline-block;
+  width: 25.5rem;
+  height: 11.56rem;
+  font-size: var(--font-size-6xl);
+}
+.logomakr-7frfbm-1-icon,
+.logomakr-7frfbm-2-icon,
+.logomakr-7frfbm-icon,
+.logomakr-7n6ad6-icon {
+  position: absolute;
+  top: 8.06rem;
+  left: 94.69rem;
+  width: 4.63rem;
+  height: 4.63rem;
+  object-fit: cover;
+}
+.logomakr-7frfbm-1-icon,
+.logomakr-7frfbm-2-icon,
+.logomakr-7n6ad6-icon {
+  left: 103.81rem;
+}
+.logomakr-7frfbm-2-icon,
+.logomakr-7n6ad6-icon {
+  top: 15.5rem;
+  left: 94.69rem;
+}
+.logomakr-7n6ad6-icon {
+  left: 103.81rem;
+}
+.all-rights-reserved-container {
+  position: absolute;
+  top: 23.81rem;
+  left: 64rem;
+  font-size: var(--font-size-6xl);
+  letter-spacing: 0.02em;
+  line-height: 2.81rem;
+  color: var(--color-white);
+  display: inline-block;
+  width: 40.44rem;
+  height: 6.25rem;
+}
+.image-1-icon {
+  position: absolute;
+  top: 3rem;
+  left: 5.81rem;
+  width: 29.06rem;
+  height: 28.63rem;
+  object-fit: cover;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 428.5rem;
+  left: 0;
+  width: 120rem;
+  height: 35.63rem;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-abhaya-libre);
+}
+.swimming,
+.yoga {
+  position: absolute;
+  letter-spacing: 0.05em;
+  line-height: 5rem;
+}
+.yoga {
+  top: 0;
+  left: 1.81rem;
+}
+.swimming {
+  top: 107.88rem;
+  left: 0.88rem;
+}
+.group-inner {
+  position: absolute;
+  top: 0.25rem;
+  left: 72.81rem;
+  border-radius: var(--br-32xl);
+  border: 5px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 36rem;
+  height: 47.13rem;
+}
+.in-order-for-container {
+  position: absolute;
+  top: 7.25rem;
+  left: 1.81rem;
+  font-size: var(--font-size-29xl);
+  letter-spacing: 0.03em;
+  line-height: 3.13rem;
+  font-family: var(--font-abhaya-libre);
+  display: inline-block;
+  width: 67.63rem;
+  height: 38.69rem;
+}
+.rectangle-div {
+  top: 54.31rem;
+  border-radius: var(--br-32xl);
+  border: 5px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 31.94rem;
+  height: 46.94rem;
+}
+.karate,
+.karate-is-a,
+.rectangle-div {
+  position: absolute;
+  left: 0;
+}
+.karate {
+  top: 0;
+  letter-spacing: 0.05em;
+  line-height: 5rem;
+}
+.karate-is-a {
+  top: 7.25rem;
+  font-size: var(--font-size-29xl);
+  letter-spacing: 0.03em;
+  line-height: 3.13rem;
+  font-family: var(--font-abhaya-libre);
+  display: inline-block;
+  width: 71.94rem;
+  height: 38.44rem;
+}
+.karate-parent,
+.q-icon {
+  position: absolute;
+  top: 54.06rem;
+  left: 36.88rem;
+  width: 71.94rem;
+  height: 45.69rem;
+}
+.q-icon {
+  top: 1.56rem;
+  left: 74.19rem;
+  border-radius: 66px;
+  width: 33.31rem;
+  height: 44.38rem;
+  object-fit: cover;
+}
+.group-child1 {
+  position: absolute;
+  top: 108.13rem;
+  left: 71.88rem;
+  border-radius: var(--br-32xl);
+  border: 5px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 34.56rem;
+  height: 53.13rem;
+}
+.swimming-is-undoubtedly {
+  position: absolute;
+  top: 115.13rem;
+  left: 0.88rem;
+  font-size: var(--font-size-29xl);
+  letter-spacing: 0.03em;
+  line-height: 3.13rem;
+  font-family: var(--font-abhaya-libre);
+  display: inline-block;
+  width: 67.63rem;
+  height: 38.69rem;
+}
+.dsc-0295q-icon,
+.dsc-0393q-icon {
+  position: absolute;
+  object-fit: cover;
+}
+.dsc-0295q-icon {
+  top: 109.44rem;
+  left: 73.13rem;
+  border-radius: 49px;
+  width: 32.03rem;
+  height: 50.03rem;
+}
+.dsc-0393q-icon {
+  top: 55.81rem;
+  left: 1.13rem;
+  border-radius: var(--br-32xl);
+  width: 29.75rem;
+  height: 44rem;
+}
+.yoga-parent {
+  position: absolute;
+  top: 258.5rem;
+  left: 3.63rem;
+  width: 108.81rem;
+  height: 161.25rem;
+}
+.fb-img-1672306387481q-icon {
+  position: absolute;
+  top: 15.31rem;
+  left: 0;
+  width: 120rem;
+  height: 60.06rem;
+  object-fit: cover;
+}
+.group-child2 {
+  position: absolute;
+  top: 9.86rem;
+  left: 0;
+  background-color: #929292;
+  width: 120rem;
+  height: 4.81rem;
+}
+.phoenix {
+  position: absolute;
+  top: 0;
+  left: 17.38rem;
+  font-size: 4.69rem;
+  letter-spacing: 0.35em;
+  color: var(--color-olivedrab);
+}
+.pia-logo-2022-1 {
+  position: absolute;
+  top: 1.24rem;
+  left: 1.88rem;
+  width: 14.38rem;
+  height: 8rem;
+  object-fit: cover;
+}
+.about-phoenix1,
+.academics,
+.home,
+.life-at-phoenix {
+  position: absolute;
+  top: 10.86rem;
+  left: 39.88rem;
+  cursor: pointer;
+}
+.about-phoenix1,
+.academics,
+.life-at-phoenix {
+  left: 46.19rem;
+}
+.academics,
+.life-at-phoenix {
+  left: 60.31rem;
+}
+.life-at-phoenix {
+  left: 84.81rem;
+}
+.beyond-books {
+  position: absolute;
+  top: 10.86rem;
+  left: 70.94rem;
+  color: var(--color-white);
+}
+.contact-us,
+.gallery {
+  position: absolute;
+  top: 10.86rem;
+  left: 99rem;
+  cursor: pointer;
+}
+.contact-us {
+  left: 107.44rem;
+}
+.mysurus-leading-international-container {
+  position: absolute;
+  top: 7.81rem;
+  left: 17.44rem;
+  font-size: 1.19rem;
+  letter-spacing: 0.05em;
+  font-family: var(--font-abhaya-libre);
+}
+.international-academy {
+  position: absolute;
+  top: 4.92rem;
+  left: 17.38rem;
+  font-size: 2.19rem;
+  letter-spacing: 0.05em;
+  color: var(--color-olivedrab);
+}
+.logomakr1-icon {
+  position: absolute;
+  top: 1.42rem;
+  left: 93.44rem;
+  border-radius: 31px;
+  width: 3.88rem;
+  height: 3.88rem;
+  object-fit: cover;
+}
+.office-91-821-4257452-mobile-container1 {
+  position: absolute;
+  top: 1.3rem;
+  left: 97.88rem;
+  letter-spacing: 0.02em;
+  line-height: 2.19rem;
+  font-family: var(--font-abhaya-libre);
+  color: #404040;
+  display: inline-block;
+  width: 19.13rem;
+  height: 4.88rem;
+}
+.sapient-global-educational {
+  position: absolute;
+  top: 11.75rem;
+  left: 3.31rem;
+  font-size: 0.88rem;
+  letter-spacing: 0.2em;
+  color: #f9f9f9;
+}
+.line-div {
+  position: absolute;
+  top: 12.74rem;
+  left: 70.75rem;
+  border-top: 7px solid var(--color-olivedrab);
+  box-sizing: border-box;
+  width: 12.75rem;
+  height: 0.44rem;
+}
+.rectangle-group {
+  position: absolute;
+  top: 0.64rem;
+  left: 0;
+  width: 120rem;
+  height: 14.67rem;
+  font-size: var(--font-size-6xl);
+}
+.we-offer-a-container {
+  position: absolute;
+  top: 195.88rem;
+  left: 3.63rem;
+  font-size: var(--font-size-26xl);
+  letter-spacing: 0.03em;
+  line-height: 3.13rem;
+  font-family: var(--font-abhaya-libre);
+  display: inline-block;
+  width: 112.75rem;
+  height: 57.38rem;
+}
+.web-1920-4 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 463.81rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-41xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

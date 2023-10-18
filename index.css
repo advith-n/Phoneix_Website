@@ -1,0 +1,1113 @@
+body {
+  overflow-x: scroll;
+  min-width: 1920;
+}
+a, a:visited, a:hover, a:active {
+  color: inherit;
+  border: inherit;
+  
+}
+.web-1920-1-child {
+  position: absolute;
+  top: 10.63rem;
+  left: 0;
+  background-color: #929292;
+  width: 120rem;
+  height: 4.81rem;
+}
+.phoenix {
+  position: absolute;
+  top: 0.76rem;
+  left: 17.38rem;
+  font-size: 4.69rem;
+  letter-spacing: 0.35em;
+  font-family: var(--font-inter);
+  color: var(--color-olivedrab);
+}
+.pia-logo-2022-1 {
+  position: absolute;
+  top: 2rem;
+  left: 1.88rem;
+  width: 14.38rem;
+  height: 8rem;
+  object-fit: cover;
+}
+.home {
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: var(--color-white);
+}
+.about-phoenix,
+.academics {
+  position: absolute;
+  top: 0;
+  left: 6.31rem;
+  cursor: pointer;
+}
+.academics {
+  left: 20.44rem;
+}
+.beyond-books,
+.contact-us,
+.gallery,
+.life-at-phoenix {
+  position: absolute;
+  top: 0;
+  left: 44.94rem;
+  cursor: pointer;
+}
+.beyond-books,
+.contact-us,
+.gallery {
+  left: 31.06rem;
+}
+.contact-us,
+.gallery {
+  text-decoration: none;
+  left: 59.13rem;
+  color: inherit;
+}
+.contact-us {
+  left: 67.56rem;
+}
+.home-parent {
+  position: absolute;
+  top: 11.63rem;
+  left: 39.88rem;
+  width: 77.69rem;
+  height: 1.88rem;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-inter);
+}
+.mysurus-leading-international-container {
+  position: absolute;
+  top: 8.58rem;
+  left: 17.44rem;
+  font-size: 1.19rem;
+  letter-spacing: 0.05em;
+}
+.international-academy {
+  position: absolute;
+  top: 5.68rem;
+  left: 17.38rem;
+  font-size: var(--font-size-16xl);
+  letter-spacing: 0.05em;
+  font-family: var(--font-inter);
+  color: var(--color-olivedrab);
+}
+.logomakr1-icon {
+  position: absolute;
+  top: 1.13rem;
+  left: 93.44rem;
+  border-radius: 31px;
+  width: 3.88rem;
+  height: 3.88rem;
+  object-fit: cover;
+}
+.office-91-821-4257452-mobile-container {
+  position: absolute;
+  top: 1rem;
+  left: 97.88rem;
+  font-size: var(--font-size-6xl);
+  letter-spacing: 0.02em;
+  line-height: 2.19rem;
+  color: #404040;
+  display: inline-block;
+  width: 19.13rem;
+  height: 4.88rem;
+}
+.sapient-global-educational {
+  position: absolute;
+  top: 12.52rem;
+  left: 3.31rem;
+  font-size: 0.88rem;
+  letter-spacing: 0.2em;
+  font-family: var(--font-inter);
+  color: #f9f9f9;
+}
+.e-icon {
+  position: absolute;
+  top: 15.44rem;
+  left: 0;
+  width: 120rem;
+  height: 60.25rem;
+  object-fit: cover;
+}
+.phoenix-international-academy,
+.welcome-to {
+  position: absolute;
+  top: 79rem;
+  left: 39.69rem;
+  font-size: var(--font-size-71xl);
+  font-family: var(--font-inter);
+}
+.phoenix-international-academy {
+  top: 84.69rem;
+  left: 30.56rem;
+  font-size: var(--font-size-31xl);
+  letter-spacing: 0.04em;
+  line-height: 5rem;
+  color: var(--color-olivedrab);
+  text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.27);
+}
+.blank-line {
+  margin: 0;
+}
+.phoenix-international-academy-container {
+  position: absolute;
+  top: 90.56rem;
+  left: 4.06rem;
+  font-size: var(--font-size-21xl);
+  color: #030303;
+  text-align: center;
+  display: inline-block;
+  width: 111.94rem;
+  height: 25.81rem;
+}
+.inspirng-children-to-container {
+  position: absolute;
+  top: 59.06rem;
+  left: 14.71rem;
+  font-size: var(--font-size-41xl);
+  line-height: 5rem;
+  font-family: var(--font-acme);
+  color: var(--color-white);
+  text-align: center;
+  text-shadow: 3px 3px 3px rgba(35, 34, 34, 0.86);
+  backdrop-filter: blur(30px);
+}
+.web-1920-1-item {
+  position: absolute;
+  top: 70.83rem;
+  left: 56.94rem;
+  width: 6.19rem;
+  height: 1.92rem;
+}
+.international,
+.wrold-school {
+  position: absolute;
+  left: 4.06rem;
+  font-family: var(--font-inria-serif);
+  color: var(--color-white);
+}
+.international {
+  top: 21.06rem;
+  font-size: var(--font-size-71xl);
+}
+.wrold-school {
+  top: 28.5rem;
+  font-size: 5.5rem;
+  -webkit-text-stroke: 4px #fff;
+}
+.web-1920-1-inner {
+  position: absolute;
+  top: 123.56rem;
+  left: 1.88rem;
+  background-color: #c6c6c6;
+  backdrop-filter: blur(30px);
+  width: 116.25rem;
+  height: 103.31rem;
+}
+.text0002worldmaplarge-icon {
+  position: absolute;
+  top: 146.25rem;
+  left: 2.56rem;
+  width: 114.94rem;
+  height: 60.19rem;
+  object-fit: cover;
+  opacity: 0.29;
+}
+.line-div {
+  position: absolute;
+  top: 202.63rem;
+  left: 69.63rem;
+  border-top: 4px solid var(--color-white);
+  box-sizing: border-box;
+  width: 30rem;
+  height: 0.25rem;
+}
+.rectangle-div,
+.web-1920-1-child1 {
+  position: absolute;
+  top: 134.5rem;
+  left: 11.44rem;
+  border: 10px solid var(--color-deepskyblue);
+  box-sizing: border-box;
+  width: 36.44rem;
+  height: 22.19rem;
+  opacity: 0.5;
+}
+.web-1920-1-child1 {
+  top: 130.13rem;
+  left: 4.25rem;
+  border: 15px solid var(--color-goldenrod);
+}
+.progressive-teaching {
+  position: absolute;
+  top: 129.31rem;
+  left: 62.25rem;
+  font-size: var(--font-size-41xl);
+  letter-spacing: 0.05em;
+  line-height: 5rem;
+}
+.edexcel-education-has,
+.the-teaching-at {
+  position: absolute;
+  top: 135.88rem;
+  left: 52.81rem;
+  font-size: var(--font-size-21xl);
+  letter-spacing: 0.03em;
+  line-height: 3.13rem;
+  display: inline-block;
+  width: 61.94rem;
+  height: 19.13rem;
+}
+.edexcel-education-has {
+  top: 171.88rem;
+  left: 4.25rem;
+  height: 14.5rem;
+}
+.affiliation-certification {
+  position: absolute;
+  top: 165.88rem;
+  left: 8.06rem;
+  font-size: var(--font-size-41xl);
+  letter-spacing: 0.05em;
+  line-height: 5rem;
+}
+.web-1920-1-child2,
+.web-1920-1-child3 {
+  position: absolute;
+  top: 167.75rem;
+  left: 77rem;
+  border: 15px solid var(--color-deepskyblue);
+  box-sizing: border-box;
+  width: 36.44rem;
+  height: 22.19rem;
+  opacity: 0.5;
+}
+.web-1920-1-child3 {
+  top: 163.38rem;
+  left: 69.81rem;
+  border: 15px solid var(--color-goldenrod);
+}
+.at-pia-daily,
+.school-events {
+  position: absolute;
+  top: 197.75rem;
+  left: 69.75rem;
+  font-size: var(--font-size-41xl);
+  letter-spacing: 0.05em;
+  line-height: 5rem;
+}
+.at-pia-daily {
+  top: 204.44rem;
+  left: 52.81rem;
+  font-size: var(--font-size-21xl);
+  letter-spacing: 0.03em;
+  line-height: 3.13rem;
+  display: inline-block;
+  width: 61.94rem;
+  height: 17.31rem;
+}
+.web-1920-1-child4,
+.web-1920-1-child5 {
+  position: absolute;
+  top: 201.63rem;
+  left: 11.44rem;
+  border: 15px solid var(--color-deepskyblue);
+  box-sizing: border-box;
+  width: 36.44rem;
+  height: 22.19rem;
+  opacity: 0.5;
+}
+.web-1920-1-child5 {
+  top: 197.25rem;
+  left: 4.25rem;
+  border: 15px solid var(--color-goldenrod);
+}
+.group-5a-icon {
+  position: absolute;
+  top: 199.13rem;
+  left: 7rem;
+  width: 36.72rem;
+  height: 22.38rem;
+  object-fit: cover;
+}
+.web-1920-1-child6,
+.web-1920-1-child7 {
+  position: absolute;
+  top: 160.81rem;
+  left: 5.63rem;
+  border-top: 6px dashed var(--color-gray-100);
+  box-sizing: border-box;
+  width: 105.99rem;
+  height: 0.38rem;
+}
+.web-1920-1-child7 {
+  top: 193.81rem;
+}
+.web-1920-1-child10,
+.web-1920-1-child11,
+.web-1920-1-child8,
+.web-1920-1-child9 {
+  position: absolute;
+  top: 134.19rem;
+  left: 61.75rem;
+  border-top: 4px solid var(--color-white);
+  box-sizing: border-box;
+  width: 46.38rem;
+  height: 0.25rem;
+}
+.web-1920-1-child10,
+.web-1920-1-child11,
+.web-1920-1-child9 {
+  top: 170.75rem;
+  left: 7.94rem;
+  width: 55.69rem;
+}
+.web-1920-1-child10,
+.web-1920-1-child11 {
+  top: 88.72rem;
+  left: 9.34rem;
+  width: 56.44rem;
+}
+.web-1920-1-child11 {
+  top: 120.66rem;
+  left: 71.03rem;
+  width: 31.44rem;
+}
+.pomegranatesa-icon {
+  position: absolute;
+  top: 2.06rem;
+  left: 2.63rem;
+  width: 8.44rem;
+  height: 8.38rem;
+  object-fit: cover;
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  border: 4px solid #ff0404;
+  box-sizing: border-box;
+  width: 13.63rem;
+  height: 13.63rem;
+}
+.pia-aims-at-container,
+.pomegranatesa-parent {
+  position: absolute;
+  top: 235.88rem;
+  left: 6.25rem;
+  width: 13.63rem;
+  height: 13.63rem;
+}
+.pia-aims-at-container {
+  top: 260.56rem;
+  font-size: var(--font-size-29xl);
+  letter-spacing: 0.03em;
+  line-height: 3.13rem;
+  display: inline-block;
+  width: 89.31rem;
+  height: 18.88rem;
+}
+.primary {
+  top: 255.88rem;
+  left: 6.25rem;
+  width: 21.63rem;
+  height: 4.69rem;
+}
+.a-play-school,
+.pomegranates,
+.primary {
+  position: absolute;
+  letter-spacing: 0.03em;
+  line-height: 3.13rem;
+  display: inline-block;
+}
+.pomegranates {
+  top: 232.63rem;
+  left: 20.44rem;
+  text-align: center;
+  width: 21.63rem;
+  height: 4.69rem;
+}
+.a-play-school {
+  top: 236.5rem;
+  left: 22.13rem;
+  font-size: var(--font-size-29xl);
+  width: 93.06rem;
+  height: 19.38rem;
+}
+.ellipse-div {
+  position: absolute;
+  top: 260.19rem;
+  left: 97.56rem;
+  border-radius: 50%;
+  border: 4px solid #9f0;
+  box-sizing: border-box;
+  width: 13.63rem;
+  height: 13.63rem;
+}
+.logomakr2-icon {
+  position: absolute;
+  top: 263.19rem;
+  left: 100.19rem;
+  width: 8.56rem;
+  height: 7.69rem;
+  object-fit: cover;
+}
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  border: 4px solid #05d6f7;
+  box-sizing: border-box;
+  width: 13.63rem;
+  height: 13.63rem;
+}
+.logomakr3-icon {
+  position: absolute;
+  top: 2.69rem;
+  left: 1.88rem;
+  width: 9.75rem;
+  height: 7.5rem;
+  object-fit: cover;
+}
+.ellipse-parent {
+  position: absolute;
+  top: 285.75rem;
+  left: 6.56rem;
+  width: 13.63rem;
+  height: 13.63rem;
+}
+.pia-lower-secondary {
+  top: 286.75rem;
+  left: 24.75rem;
+  font-size: var(--font-size-29xl);
+  width: 90.38rem;
+  height: 18.56rem;
+}
+.edexcel-international-gcses,
+.international-gcse,
+.lower-secondary,
+.pia-lower-secondary {
+  position: absolute;
+  letter-spacing: 0.03em;
+  line-height: 3.13rem;
+  display: inline-block;
+}
+.lower-secondary {
+  top: 282.06rem;
+  left: 24.75rem;
+  width: 26.63rem;
+  height: 4.69rem;
+}
+.edexcel-international-gcses,
+.international-gcse {
+  left: 7.69rem;
+}
+.edexcel-international-gcses {
+  top: 313.63rem;
+  font-size: var(--font-size-29xl);
+  width: 85.5rem;
+  height: 17.06rem;
+}
+.international-gcse {
+  top: 309.94rem;
+  width: 74.63rem;
+  height: 4.69rem;
+}
+.web-1920-1-child12 {
+  position: absolute;
+  top: 312.56rem;
+  left: 98.88rem;
+  border-radius: 50%;
+  border: 4px solid #de1de5;
+  box-sizing: border-box;
+  width: 13.63rem;
+  height: 13.63rem;
+}
+.logomakr4-icon {
+  position: absolute;
+  top: 315.94rem;
+  left: 101rem;
+  width: 9.75rem;
+  height: 6.38rem;
+  object-fit: cover;
+}
+.web-1920-1-child13 {
+  position: absolute;
+  top: 121.13rem;
+  left: 12.88rem;
+  border-radius: 17px;
+  background-color: #f5df99;
+  width: 94.31rem;
+  height: 4.94rem;
+}
+.registration-open-for {
+  position: absolute;
+  top: 121.06rem;
+  left: 24.5rem;
+  font-size: var(--font-size-21xl);
+  line-height: 5rem;
+  color: #0a0b0a;
+}
+.group-inner {
+  position: absolute;
+  top: 0.94rem;
+  left: 0;
+  border-radius: 7px;
+  background-color: var(--color-white);
+  width: 13.38rem;
+  height: 3.06rem;
+}
+.apply-now {
+  position: absolute;
+  top: 0;
+  left: 2.81rem;
+  line-height: 5rem;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 121.13rem;
+  left: 82.13rem;
+  width: 13.38rem;
+  height: 5rem;
+  font-size: var(--font-size-xl);
+}
+.group-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #f26929;
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 120rem;
+  height: 35.63rem;
+}
+.connect,
+.contact,
+.quick-links {
+  position: absolute;
+  top: 2.75rem;
+  left: 95rem;
+  letter-spacing: 0.05em;
+  line-height: 5rem;
+}
+.contact,
+.quick-links {
+  left: 64rem;
+}
+.quick-links {
+  left: 38.31rem;
+}
+.about-phoenix-admissions-paren {
+  position: absolute;
+  top: 8.06rem;
+  left: 38.19rem;
+  font-size: var(--font-size-26xl);
+  letter-spacing: 0.02em;
+  line-height: 3.75rem;
+  color: var(--color-white);
+}
+.email-centreheadmyphoenixaca {
+  margin: 0;
+  font-size: var(--font-size-xl);
+}
+.office-91-821-4257452-mobile-container1 {
+  position: absolute;
+  top: 7.69rem;
+  left: 64rem;
+  letter-spacing: 0.02em;
+  line-height: 2.81rem;
+  color: var(--color-white);
+  display: inline-block;
+  width: 25.5rem;
+  height: 11.56rem;
+  font-size: var(--font-size-6xl);
+}
+.logomakr-7frfbm-1-icon,
+.logomakr-7frfbm-2-icon,
+.logomakr-7frfbm-icon,
+.logomakr-7n6ad6-icon {
+  position: absolute;
+  top: 8.06rem;
+  left: 94.69rem;
+  width: 4.63rem;
+  height: 4.63rem;
+  object-fit: cover;
+}
+.logomakr-7frfbm-1-icon,
+.logomakr-7frfbm-2-icon,
+.logomakr-7n6ad6-icon {
+  left: 103.81rem;
+}
+.logomakr-7frfbm-2-icon,
+.logomakr-7n6ad6-icon {
+  top: 15.5rem;
+  left: 94.69rem;
+}
+.logomakr-7n6ad6-icon {
+  left: 103.81rem;
+}
+.all-rights-reserved-container {
+  position: absolute;
+  top: 23.81rem;
+  left: 64rem;
+  font-size: var(--font-size-6xl);
+  letter-spacing: 0.02em;
+  line-height: 2.81rem;
+  color: var(--color-white);
+  display: inline-block;
+  width: 40.44rem;
+  height: 6.25rem;
+}
+.image-1-icon {
+  position: absolute;
+  top: 3rem;
+  left: 5.81rem;
+  width: 29.06rem;
+  height: 28.63rem;
+  object-fit: cover;
+}
+.rectangle-group {
+  position: absolute;
+  top: 20.69rem;
+  left: 0;
+  width: 120rem;
+  height: 35.63rem;
+}
+.partners {
+  position: absolute;
+  top: 0;
+  left: 51.75rem;
+  font-size: var(--font-size-26xl);
+  text-decoration: underline;
+  letter-spacing: 0.03em;
+  line-height: 3.13rem;
+  display: inline-block;
+  text-align: center;
+  width: 14.19rem;
+  height: 4.69rem;
+}
+.pearson-plc-logowine-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 27rem;
+  height: 8.75rem;
+  object-fit: cover;
+}
+.cialfo-logo-icon,
+.edexcel-logo-icon {
+  position: absolute;
+  top: 3rem;
+  left: 44.56rem;
+  width: 25rem;
+  height: 4.63rem;
+  object-fit: cover;
+}
+.cialfo-logo-icon {
+  top: 1.69rem;
+  left: 87.13rem;
+  width: 23.88rem;
+  height: 7.31rem;
+}
+.pearson-plc-logowine-parent {
+  position: absolute;
+  top: 6.25rem;
+  left: 4.63rem;
+  width: 111rem;
+  height: 9rem;
+}
+.group-parent {
+  position: absolute;
+  top: 485.88rem;
+  left: 0;
+  width: 120rem;
+  height: 56.31rem;
+  font-size: var(--font-size-21xl);
+}
+.web-1920-1-child14 {
+  position: absolute;
+  top: 379.19rem;
+  left: 5.13rem;
+  background-color: #f3f3f3;
+  box-shadow: 0 0 3px rgba(21, 19, 19, 0.16);
+  width: 107.5rem;
+  height: 67.94rem;
+}
+.div,
+.div1 {
+  position: absolute;
+  top: 401.63rem;
+  left: 15.13rem;
+  font-size: var(--font-size-81xl);
+  font-family: var(--font-inria-serif);
+  color: var(--color-olivedrab);
+  text-align: center;
+}
+.div1 {
+  top: 429.13rem;
+  left: 88.38rem;
+  display: inline-block;
+  width: 2.69rem;
+  height: 10.25rem;
+}
+.abha-parent-grade-container {
+  position: absolute;
+  top: 436.56rem;
+  left: 46.06rem;
+  font-size: var(--font-size-29xl);
+  letter-spacing: 0.03em;
+  line-height: 3.13rem;
+  text-align: center;
+}
+.path-1-icon,
+.polygon-icon {
+  position: absolute;
+  top: 418.97rem;
+  left: 109.38rem;
+  width: 1.5rem;
+  height: 2rem;
+}
+.path-1-icon {
+  top: 418.81rem;
+  left: 11.13rem;
+  width: 2rem;
+  height: 2.31rem;
+}
+.testimonials {
+  position: absolute;
+  top: 379.25rem;
+  left: 50.25rem;
+  letter-spacing: 0.03em;
+  line-height: 3.13rem;
+  text-transform: uppercase;
+  color: var(--color-olivedrab);
+}
+.dsc-0068b-icon,
+.dsc-0138b-icon,
+.pra-3879a-icon {
+  position: absolute;
+  top: 132.25rem;
+  left: 7.81rem;
+  width: 36.44rem;
+  height: 22.16rem;
+  object-fit: cover;
+}
+.dsc-0068b-icon,
+.pra-3879a-icon {
+  top: 165.5rem;
+  left: 73.63rem;
+  width: 36.63rem;
+  height: 22.31rem;
+}
+.pra-3879a-icon {
+  top: 199.63rem;
+  left: 7rem;
+  width: 36.75rem;
+  height: 22.41rem;
+}
+.web-1920-1-child15 {
+  position: absolute;
+  top: 336.25rem;
+  left: 0;
+  background-color: #eb6161;
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 120rem;
+  height: 35.75rem;
+}
+.calender-2023-24,
+.dec,
+.div2 {
+  position: absolute;
+  letter-spacing: 0.03em;
+}
+.calender-2023-24 {
+  top: 341.63rem;
+  left: 45.56rem;
+  line-height: 3.13rem;
+  color: var(--color-white);
+}
+.dec,
+.div2 {
+  left: 11rem;
+}
+.dec {
+  top: 349.38rem;
+  line-height: 3.13rem;
+  color: var(--color-white);
+}
+.div2 {
+  top: 352.88rem;
+  font-size: var(--font-size-61xl);
+  opacity: 0.8;
+}
+.school-closed-winter-break-container {
+  position: absolute;
+  top: 350.19rem;
+  left: 17.69rem;
+  font-size: var(--font-size-29xl);
+  letter-spacing: 0.03em;
+  line-height: 3.13rem;
+  display: inline-block;
+  width: 24.75rem;
+  height: 10rem;
+}
+.div3,
+.jan {
+  position: absolute;
+  left: 46.19rem;
+  letter-spacing: 0.03em;
+}
+.jan {
+  top: 349.38rem;
+  line-height: 3.13rem;
+  color: var(--color-white);
+}
+.div3 {
+  top: 352.88rem;
+  font-size: var(--font-size-61xl);
+  opacity: 0.8;
+}
+.school-reopen-winter-break-container {
+  position: absolute;
+  top: 350.38rem;
+  left: 53.44rem;
+  font-size: var(--font-size-29xl);
+  letter-spacing: 0.03em;
+  line-height: 3.13rem;
+  display: inline-block;
+  width: 24.25rem;
+  height: 6.25rem;
+}
+.jan1 {
+  top: 349.38rem;
+  left: 81.38rem;
+  line-height: 3.13rem;
+  color: var(--color-white);
+}
+.div4,
+.jan1,
+.tournament-basketball {
+  position: absolute;
+  letter-spacing: 0.03em;
+}
+.div4 {
+  top: 352.88rem;
+  left: 81.38rem;
+  font-size: var(--font-size-61xl);
+  opacity: 0.8;
+}
+.tournament-basketball {
+  top: 350.19rem;
+  left: 88.69rem;
+  font-size: var(--font-size-29xl);
+  line-height: 3.13rem;
+  display: inline-block;
+  width: 20.44rem;
+  height: 10rem;
+}
+.logomakr-7zrftn-icon {
+  position: absolute;
+  top: 350.75rem;
+  left: 111.56rem;
+  width: 2.06rem;
+  height: 3.56rem;
+  object-fit: cover;
+}
+.full-calender-,
+.take-the-next {
+  position: absolute;
+  letter-spacing: 0.03em;
+  line-height: 3.13rem;
+}
+.full-calender- {
+  top: 364.88rem;
+  left: 89.13rem;
+  font-size: 1.88rem;
+  color: var(--color-white);
+}
+.take-the-next {
+  top: 0;
+  left: 29.84rem;
+  -webkit-text-stroke: 1px #fff;
+}
+.group-child2 {
+  position: absolute;
+  top: 4.09rem;
+  left: 29.59rem;
+  border-top: 8px solid var(--color-gold);
+  box-sizing: border-box;
+  width: 30.63rem;
+  height: 0.5rem;
+}
+.group-child3,
+.group-child4,
+.group-child5,
+.group-child6 {
+  position: absolute;
+  top: 0;
+  border-radius: 50%;
+  background-color: var(--color-dodgerblue);
+  width: 13.88rem;
+  height: 13.88rem;
+}
+.group-child3 {
+  left: 0;
+}
+.group-child4,
+.group-child5,
+.group-child6 {
+  left: 25.31rem;
+}
+.group-child5,
+.group-child6 {
+  left: 50.63rem;
+}
+.group-child6 {
+  left: 75.94rem;
+}
+.visit {
+  top: 4.31rem;
+  left: 4.59rem;
+}
+.information,
+.request,
+.school,
+.visit {
+  position: absolute;
+  letter-spacing: 0.03em;
+  line-height: 3.13rem;
+}
+.school {
+  top: 6.81rem;
+  left: 3.75rem;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+}
+.information,
+.request {
+  top: 4.31rem;
+  left: 27.84rem;
+}
+.information {
+  top: 6.81rem;
+  left: 26.88rem;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+}
+.apply {
+  top: 4.31rem;
+  left: 54.47rem;
+}
+.apply,
+.friendfamily,
+.now,
+.refer {
+  position: absolute;
+  letter-spacing: 0.03em;
+  line-height: 3.13rem;
+}
+.now {
+  top: 6.81rem;
+  left: 55.75rem;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+}
+.friendfamily,
+.refer {
+  top: 4.31rem;
+  left: 80.03rem;
+}
+.friendfamily {
+  top: 6.81rem;
+  left: 77.19rem;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+}
+.ellipse-group {
+  position: absolute;
+  top: 12.81rem;
+  left: 0;
+  width: 89.81rem;
+  height: 13.88rem;
+  font-size: var(--font-size-16xl);
+  color: var(--color-gold);
+}
+.group-child7 {
+  position: absolute;
+  top: 16.5rem;
+  left: 44.69rem;
+  border-right: 6px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 0.38rem;
+  height: 6.44rem;
+}
+.take-the-next-step-parent {
+  position: absolute;
+  top: 451.75rem;
+  left: 15.13rem;
+  width: 89.81rem;
+  height: 26.69rem;
+  font-size: var(--font-size-31xl);
+}
+.web-1920-1-child16 {
+  position: absolute;
+  top: -68.69rem;
+  left: 41.06rem;
+  border-top: 7px solid var(--color-olivedrab);
+  box-sizing: border-box;
+  width: 5.25rem;
+  height: 0.44rem;
+}
+.group-child8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-olivedrab);
+  width: 16.56rem;
+  height: 16.56rem;
+}
+.whatsapp-image-2023-01-31-at-1 {
+  position: absolute;
+  top: 0.75rem;
+  left: 0.75rem;
+  width: 15.06rem;
+  height: 15.06rem;
+  object-fit: cover;
+}
+.ellipse-container,
+.what-i-like {
+  position: absolute;
+  top: 385.06rem;
+  left: 51.75rem;
+  width: 16.56rem;
+  height: 16.56rem;
+}
+.what-i-like {
+  top: 403.69rem;
+  left: 18.38rem;
+  font-family: var(--font-inria-serif);
+  display: inline-block;
+  width: 86.19rem;
+  height: 30.19rem;
+}
+.web-1920-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 542.13rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-26xl);
+  color: var(--color-black);
+  font-family: var(--font-abhaya-libre);
+}

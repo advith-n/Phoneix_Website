@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-abhaya-libre: "Abhaya Libre";
+
+  /* font sizes */
+  --font-size-6xl: 25px;
+  --font-size-16xl: 35px;
+  --font-size-29xl: 48px;
+  --font-size-36xl: 55px;
+  --font-size-21xl: 40px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-olivedrab: #6fb445;
+  --color-black: #000;
+  --color-gainsboro: #e0e0e0;
+
+  /* Border radiuses */
+  --br-26xl: 45px;
+  --br-31xl: 50px;
+}
