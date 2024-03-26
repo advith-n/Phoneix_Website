@@ -7,4 +7,8 @@
   1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
   2) In the terminal, run `npm install`
   3) Run `npm start` to view project in browser
-  
+  https://milanwittpohl.com/projects/tutorials/full-stack-web-app/"
+"https://www.freecodecamp.org/news/learn-django-by-building-a-marketplace/" (This is a specific example from freeCodeCamp)
+"https://www.freecodecamp.org/news/how-to-build-a-full-stack-application-from-start-to-finish/
+"https://www.freecodecamp.org/news/how-to-build-a-full-stack-application-from-start-to-finish/"
+These searches should give you a variety of resources to get you started!
