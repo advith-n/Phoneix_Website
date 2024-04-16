@@ -14,3 +14,7 @@
 These searches should give you a variety of resources to get you started!
 https://www.phind.com/search?cache=hjoci4cn0jv0k23jupfdyu7t
 https://www.phind.com/search?cache=um00c3tb8jjdd3qy23p38nj2
+
+
+
+https://www.phind.com/search?cache=u95r0nv3ujutqnyj27c0shpe(this is for setting up mongodb)
